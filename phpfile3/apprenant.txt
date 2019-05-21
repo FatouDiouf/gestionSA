@@ -1,0 +1,10 @@
+SA379;Diouf;Fatou;2019-05-08;778522566;toufa@gmail.com;present;173;modifier;
+SA623;SY;Khadija;2019-04-30;775147017;dija@gmail.com;present;69;modifier;
+SA647;Camara;Ababacar;1992-05-05;44555263;qsdsd@qf.rhy;exclu;275;modifier;
+SA199;Mbaye;Ababacar;2019-05-31;88578689689656;trjf@hste.sfh;present;275;modifier;
+SA552;guisse;maman;2019-05-02;5522148;sd@def.cee;present;173;modifier;
+SA743;ndiaye;ndiouffa;2019-05-08;441189652;ndioufa@gmail.com;exclu;275;modifier;
+SA810;ndao;ibou;2019-05-21;778083808;ibou@ibou.com;present;275;modifier;
+SA510;sall;awa;2019-05-08;777503987;awa@awa.com;present;275;modifier;modifier;
+SA150;Ndiaye;elaj;2019-05-07;158484456;gdqghg@gaey.com;exclu;275;modifier;
+SA451;mboup;yacine;1996-02-15;774990882;yachou@gmail.com;present;69;modifier;

@@ -1,0 +1,4 @@
+275;promo2;Janvier;2016;
+173;promo1;Janvier;2016;
+69;promo3;Août;2018;
+129;promo4;Juin;2023;      

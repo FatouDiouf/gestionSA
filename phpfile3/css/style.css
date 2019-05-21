@@ -1,0 +1,50 @@
+
+.block
+{
+    margin-top:-450px;
+    margin-left:200px;
+    width:50%;
+    padding: 25px;
+    border: 1px solid #f1f1f1;
+    background: rgb(212, 212, 212);
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+    border-radius: 25px;
+    position: absolute;
+    
+
+}
+input[type=text], input[type=password], input[type=number], input[type=mail], input[type=date] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+input[type=submit], select{
+    background-color:#FA0089;
+    color: white;
+    padding: 10px 10px;
+    margin: 10px;
+    border: none;
+    cursor: pointer;
+    width:200px ;
+    margin-left: 4px;
+}
+img.img
+{
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+    width: 100%;
+    height: 610px;
+}
+.roug
+{
+    background-color: #FA0089;
+}
+.haut
+{
+    position: relative;
+    top:-100px;
+}
